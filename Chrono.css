@@ -21,7 +21,7 @@ title {
   margin-top: 20px;
   display: inline-block;
   padding: 20px;
-  background-color: white;
+  background-color: green;
   border-radius: 3px;
   box-shadow: 0px 0px 1px 0px #656565;
 }
@@ -46,7 +46,7 @@ title {
 }
 .Chrono button {
   border: none;
-  background: transparent;
+  background: yellow;
   font-size: 20px;
   cursor: pointer;
   outline: none;

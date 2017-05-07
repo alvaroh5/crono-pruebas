@@ -46,7 +46,7 @@ title {
 }
 .Chrono button {
   border: none;
-  background: blue;
+  background: transparent;
   font-size: 20px;
   cursor: pointer;
   outline: none;
